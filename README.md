@@ -18,6 +18,10 @@ Suggest updates to this guide: https://github.com/chrispsn/roko.ai
 - Google Groups: https://groups.google.com/forum/#!forum/lczero
 - Reddit: https://www.reddit.com/r/cbaduk/
 
+## Leela Chess Zero
+
+- http://lczero.org/
+
 ## Science research
 
 ### BOINC & Science United
