@@ -6,6 +6,8 @@ At the same time, cloud computing providers such as Google Cloud and Microsoft A
 
 This is a guide to use those credits to easily contribute to a number of projects, at no cost to you.
 
+Suggest updates to this guide: https://github.com/chrispsn/roko.ai
+
 ## Public works
 
 ### Leela Zero
